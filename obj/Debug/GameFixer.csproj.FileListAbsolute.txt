@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\GameFixer\bin\Debug\GameFixer.exe.config
+C:\Users\Максим\source\repos\GameFixer\bin\Debug\GameFixer.exe
+C:\Users\Максим\source\repos\GameFixer\bin\Debug\GameFixer.pdb
+C:\Users\Максим\source\repos\GameFixer\bin\Debug\MaterialSkin.dll
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.Properties.Resources.resources
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.csproj.CopyComplete
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.exe
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.pdb
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.GUI.LogForm.resources
+C:\Users\Максим\source\repos\GameFixer\obj\Debug\GameFixer.GUI.MainForm.resources
